@@ -1,0 +1,165 @@
+body {
+	width: 100%;
+	height: 100%;
+}
+
+header {
+	background-color: #37BBD2;
+	color: white;
+	width: 100%;
+	padding: 30px;
+	border-bottom: 5px	solid #404040;
+}
+
+header img {
+	vertical-align: top;
+	width: 70px;
+	padding-right: 10px;
+	float: left;
+}
+
+header p {
+	float: right;
+}
+
+h5 {
+	padding: 5px;
+	color: White;
+	display: inline-block;
+	vertical-align: top;
+	font-weight: bold;
+}
+
+
+p {
+	display: inline-block;
+	padding: 20px;
+	color: white;
+}
+
+img {
+	width: 100px;
+}
+
+.black {
+	color: black;
+}
+
+.col-md-4, .col-md-6, .col-md-12 {
+	padding-right: 0;
+	padding-left: 0;
+
+}
+
+/*--------Images--------*/
+
+.img-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.big {
+	position: relative;
+	height: 400px;
+	padding-top: 130px;
+}
+
+.big-img {
+	width: 150px;
+}
+
+.little {
+    position: relative;
+    height: 163px;
+    padding-top: 25px;
+}
+
+.little-autre {
+	position: relative;
+	height: 163px;
+	padding-top: 25px;
+}
+
+.fa {
+	display: inline-block;
+	color: black;
+	padding-right: 10px;
+	padding-top: 15px;
+	float: right;
+}
+
+a :hover {
+	color: #F5F5F5;
+}
+
+/*-----COULEUR DE FONDS-----*/
+
+.bg-white {
+
+	border-right: 5px solid #404040;
+	vertical-align: top;
+	background-color: #F5F5F5;
+}
+
+.bg-grey {
+	background-color: #999999;
+	border-bottom: 5px	solid #404040;
+	border-right: 5px solid #404040;
+}
+
+.bg-saumon {
+	background-color: #FA8A7E;
+	border-right: 5px solid #404040;
+}
+
+.bg-saumon-dark {
+	background-color: #F8504D;
+	border-bottom: 5px solid #404040;
+	border-right: 5px solid #404040;
+}
+
+.bg-purple {
+	background-color: #B483FF;
+	border-right: 5px solid #404040;
+}
+
+.bg-purple-dark {
+	width: 100%;
+	background-color: #7F54C6;
+	border-bottom: 5px solid #404040;
+	border-right: 5px solid #404040;
+}
+
+.bg-greenlight {
+	background-color: #B7F6C9;
+	border-right: 5px solid #404040;
+}
+
+.bg-green-dark {
+	background-color: #35ECB6;
+	border-bottom: 5px solid #404040;
+	border-right: 5px solid #404040;
+}
+
+.bg-yellow {
+	background-color: #FBFF86;
+	border-right: 5px solid #404040;
+}
+
+.bg-yellow-dark {
+	background-color: #FBED1A;
+	border-bottom: 5px solid #404040;
+	border-right: 5px solid #404040;
+}
+
+.bg-blue {
+	background-color: #7EFEFF;
+	border-right: 5px solid #404040;
+}
+
+.bg-blue-dark {
+	background-color: #3EA8F6;
+	border-bottom: 5px solid #404040;
+	border-right: 5px solid #404040;
+}
